@@ -1,0 +1,25 @@
+ul{
+    list-style-type: none;
+    padding: 10px;
+    
+}
+
+ul li{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+ul li input{
+    width: fit-content;
+    accent-color: black;
+}
+
+ul li p{
+    margin: 0;
+    width: 40%;
+    text-align: center;
+    letter-spacing: 1.5px;
+}
